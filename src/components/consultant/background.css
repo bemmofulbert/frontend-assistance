@@ -1,0 +1,57 @@
+#messagerie_background {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right,#71ebe3 ,#7567d3 );
+}
+.messagerie_problem {
+    color: white;
+    margin-top: 3%;  
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    position: relative;
+}
+#messagerie_title {
+    font-size: 36px;
+    text-shadow: 1px -1px 2px black;
+}
+#messagerie_tititleSlogan {
+    font-size: 14px;
+}
+#messagerie_butCallTech {
+    background: linear-gradient(to right,#01bdd2,#00879b);
+    width: 230px;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    align-items: center;
+    align-content: center;
+}
+#messagerie_butCallTech_img {
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    margin-left: 10px;
+}
+#messagerie_butCallTech_texte {
+    font-size: 14px;
+}
+.texte_title {
+    font-family: 'Ubuntu';
+    color: white;
+}
+.texte_mes {
+    color: black;  
+    font-family: 'Ubuntu';
+}
